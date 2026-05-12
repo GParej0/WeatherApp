@@ -15,7 +15,7 @@ The main goal of this project was to practice API integration, asynchronous Java
 
 ## 📸 Preview
 
-![Weather App Preview](https://via.placeholder.com/800x400?text=Weather+App+Preview)
+![Weather App Preview](image.png)
 
 ---
 
